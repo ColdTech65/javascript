@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+
+body {
+    background: rgb(209, 197, 191);
+}
+
+.test {
+    height: 250px;
+    width: auto;
+    background: rgb(214, 239, 191)
+}
